@@ -10,7 +10,7 @@
  */
 angular
   .module('angularJsExamSjsApp', [
-    'ngAnimate',
+  'ngAnimate',
     'ngCookies',
     'ngResource',
     'ngRoute',

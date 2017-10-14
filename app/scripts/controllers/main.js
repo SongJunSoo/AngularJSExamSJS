@@ -8,7 +8,7 @@
  * Controller of the angularJsExamSjsApp
  */
 angular.module('angularJsExamSjsApp')
-  .factory('Data',['$http','$q', 
+   .factory('Data',['$http','$q', 
   	function($http, $q) {
   		return {
   			getData : function(url) {
